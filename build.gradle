@@ -23,7 +23,7 @@ ext {
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
-    implementation 'org.springframework.vault:spring-vault-core'
+    //implementation 'org.springframework.vault:spring-vault-core'     ------ not necessary
     implementation 'org.springframework.cloud:spring-cloud-starter-vault-config'
 
 
